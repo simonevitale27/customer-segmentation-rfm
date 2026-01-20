@@ -4,7 +4,7 @@
 
 Analisi di segmentazione clienti per e-commerce UK basata su metodologia RFM (Recency, Frequency, Monetary) su 406.829 transazioni e 4.338 clienti nel periodo 2010-2011.
 
-**Obiettivo:** Identificare clienti ad alto valore e clienti a rischio churn per ottimizzare investimenti in marketing e retention.
+**Obiettivo:** Identificare clienti ad alto valore e clienti a rischio abbandono per ottimizzare investimenti in marketing e retention.
 
 ---
 
@@ -118,11 +118,11 @@ NTILE(5) OVER (ORDER BY monetary_value ASC) as M_score
 
 2. **Tattiche (Q2-Q3):**
    - Aumentare inventory Q4 per capitalizzare picco stagionale
-   - Nurturing su Promising (convertirli in Loyal)
+   - Fidelizzazione progressiva (convertirli in Loyal)
 
 3. **Strategiche (anno):**
    - Customer Lifetime Value analysis per Champions
-   - Predictive churn model (ML) per identificare At Risk in anticipo
+   - Modello di intelligenza artificiale che cerca di capire quali clienti rischiano di andarsene, così da poter intervenire prima.
 
 ---
 
