@@ -1,6 +1,5 @@
 # Customer Segmentation & RFM Analysis
-<img width="859" height="516" alt="Screenshot 2026-01-20 alle 16 30 54 (2)" src="https://github.com/user-attachments/assets/0a47a360-5110-4d0d-b5a6-1258465973f4" />
-
+<img width="1322" height="763" alt="Screenshot 2026-02-15 alle 17 17 53 (2)" src="https://github.com/user-attachments/assets/fea6a47a-936d-4ab7-ba37-a0c176bdf466" />
 
 Analisi di segmentazione clienti per e-commerce UK basata su metodologia RFM (Recency, Frequency, Monetary) su 406.829 transazioni e 4.338 clienti nel periodo 2010-2011.
 
